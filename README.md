@@ -47,7 +47,7 @@ Welcome to my GitHub universe, where code meets creativity, and projects come to
 
 ## 🌟 **Let’s Connect!**
 📬 Reach out for collaborations, tech discussions, or just to say hi!  
-**LinkedIn:** [Priyam Srivastava](https://linkedin.com/in/priyamsrivastava)
+- **LinkedIn:** [Priyam Srivastava](https://linkedin.com/in/priyamsrivastava)
 
 ---
 
