@@ -8,10 +8,11 @@ Welcome to my GitHub universe, where code meets creativity, and projects come to
 ---
 
 ## 👨‍💻 **Who am I?**
-- **B.Tech in Computer Science and Engineering** 💻
+- Pursuing **B.Tech in Computer Science and Engineering** 💻
 - Passionate about **software development**, **cybersecurity**, and **artificial intelligence** 🤖
 - Linux feels like home 🐧 (yes, I find joy in the terminal!)
 - Currently diving deep into **Data Structures and Algorithms (DSA)** 🌊
+- Interested in Web-Dev using **MERN** ❤️
 
 ---
 
