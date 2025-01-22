@@ -39,16 +39,14 @@ Welcome to my GitHub universe, where code meets creativity, and projects come to
 ---
 
 ## 🌱 **Currently Exploring**
-- Hands-on **Linux projects** 🐧
-- Mastering **Python for industry applications** 🐍
-- Building a **DDoS Protection System** for cloud architecture 🌐
-- Crafting solutions for **coastal tourism** and **equality awareness**
+- Hands-on **Projects** 🐧
+- Mastering **Python and C++ for industry applications** 🐍
+- Building solutions for **Various Hackathons** 😎
 
 ---
 
 ## 🌟 **Let’s Connect!**
 📬 Reach out for collaborations, tech discussions, or just to say hi!  
-**Twitter:** [@PulsarCoderX](https://twitter.com/PulsarCoderX)  
 **LinkedIn:** [Priyam Srivastava](https://linkedin.com/in/priyamsrivastava)
 
 ---
