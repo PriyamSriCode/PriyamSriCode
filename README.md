@@ -4,17 +4,19 @@
 
 <h3 align="center">🚀 Aspiring Software Developer | 🛡️ Cybersecurity Enthusiast | 🤖 AI Enthusiast</h3>
 
-<div align="center">
 
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50">
-</div>
   
   [![Linkedin Badge](https://img.shields.io/badge/-Priyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/itspriyamsri)](https://linkedin.com/in/itspriyamsri)
   [![GitHub followers](https://img.shields.io/github/followers/itspriyamsri?label=Follow&style=social)](https://github.com/itspriyamsri)
   ![Profile Views](https://komarev.com/ghpvc/?username=itspriyamsri&color=brightgreen)
   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/itspriyamsri)
-
   
+  
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="900">
 </div>
