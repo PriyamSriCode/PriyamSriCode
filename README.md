@@ -19,11 +19,12 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="45"> About Me
+</div>
 
 ```javascript
 const priyam = {
@@ -38,9 +39,12 @@ const priyam = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"> Technical Skills
 
 <div align="center">
+
+## <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"> Technical Skills
+
+
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50">
   
@@ -55,9 +59,11 @@ const priyam = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<div align="center">
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45"> What I'm Working On
 
-<div align="center">
+
   
 | 🛡️ Cybersecurity | 🚀 Development | 🤖 AI Integration |
 |:----------------:|:--------------:|:----------------:|
@@ -69,9 +75,11 @@ const priyam = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<div align="center">
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="45"> Beyond Code: My Digital Universe
 
-<div align="center">
+
   <img src="https://media.tenor.com/t4NZErGuOdsAAAAM/anime-guiltycrown.gif" width="200">
 
 1. Gaming 🎮
@@ -83,6 +91,9 @@ const priyam = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+
+<div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="45"> GitHub Stats
 
@@ -98,9 +109,11 @@ const priyam = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<div align="center">
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="45"> Let's Connect!
 
-<div align="center">
+
   <a href="https://linkedin.com/in/itspriyamsri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
