@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Priyam+Srivastava!;" />
 </h1>
 
-<h3 align="center">🚀 Aspiring Software Developer | 🛡️ Cybersecurity Enthusiast | 🤖 AI Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | 🏆 Hackathon Enthusiast | 🤖 AI Integration Specialist</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
@@ -25,15 +25,18 @@
 
 </div>
 
+
 ```javascript
 const priyam = {
-  education: "B.Tech in Computer Science and Engineering 🎓",
-  passions: ["Software Development", "Cybersecurity", "AI Usage", "Linux"],
-  currentlyLearning: ["Data Structures", "Algorithms", "MERN Stack"],
-  lovesToDo: ["Building Projects", "Problem Solving", "Learning New Tech"],
-  aiEnthusiast:
-    "Leveraging AI tools to enhance productivity and innovation! 🤖",
-  funFact: "I find joy in the terminal! 🐧",
+code: ["Python", "JavaScript", "TypeScript", "C++", "C"],
+backend: ["FastAPI", "Node.js", "Express"],
+frontend: ["React", "HTML/CSS"],
+databases: ["MongoDB", "Firebase", "SQL"],
+tools: ["Docker", "Linux", "Git", "VS Code"],
+specialties: ["AI/LLM Integration", "Prompt Engineering", "Automation"],
+currentlyLearning: ["MERN Stack", "DSA", "AI Agents"],
+hackathons: "🥉 HackCBS 8.0 Winner | 🌟 Google Solution Challenge Top 105",
+funFact: "Daily driving Linux & living in the terminal 🐧☕"
 };
 ```
 
@@ -41,16 +44,21 @@ const priyam = {
 
 <div align="center">
 
-## <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"> Technical Skills
+## <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"> Tech Stack
 
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
   
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
 </div>
 
@@ -58,32 +66,41 @@ const priyam = {
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45"> What I'm Working On
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45"> Featured Projects
+
+</div>
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50">
-  
-| 🛡️ Cybersecurity | 🚀 Development | 🤖 AI Integration |
-|:----------------:|:--------------:|:----------------:|
-| Security Tools | MERN Projects | Prompt Engineering |
-| Network Analysis | Web Applications | AI Tool Integration |
-| Vulnerability Research | API Development | Automation with AI |
-  
-</div>
+
+
+
+### 🛡️ [Project SHIELD](https://github.com/itspriyamsri/project-shield)
+AI-powered IP protection platform | TypeScript • FastAPI • MongoDB
+
+### 🎓 [AetherLearn](https://github.com/itspriyamsri/aetherlearn)
+Educational resource aggregator with AI | JavaScript • FastAPI • Docker
+
+### 🔒 [CPPCloak](https://github.com/itspriyamsri/cppcloak)
+LLVM-based code obfuscator | C++ • LLVM • React • TypeScript
+
+### 🎯 [Saksham AI](https://github.com/itspriyamsri/saksham-ai)
+Intelligent internship matcher with skill gap analysis | Python • AI/ML
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="45"> Beyond Code: My Digital Universe
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="45"> What I'm Working On
 
 <img src="https://media.tenor.com/t4NZErGuOdsAAAAM/anime-guiltycrown.gif" width="200">
-
-1. Gaming 🎮
-2. Sci-Fi 🚀
-3. Photography 📸
-4. Chess ♟️
-5. Anime 🎬
-
+  
+| 🛡️ Backend | 🚀 Frontend | 🤖 AI/ML |
+|:----------:|:-----------:|:--------:|
+| FastAPI | React | Gemini API |
+| Node.js | TypeScript | Prompt Engineering |
+| REST APIs | MERN Stack | LLM Integration |
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -107,6 +124,16 @@ const priyam = {
 
 <div align="center">
 
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="45"> Beyond Code
+
+Gaming 🎮 | Sci-Fi 🚀 | Photography 📸 | Chess ♟️ | Anime 🎬
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="45"> Let's Connect!
 
   <a href="https://linkedin.com/in/itspriyamsri" target="_blank">
@@ -122,9 +149,9 @@ const priyam = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing+together!+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+💻" />
 </div>
 
 <div align="center">
-  <sub>If you found value in something I created, please star ⭐ the repo!</sub>
+  <sub>⭐ Star repos you find useful | Let's collaborate and build together!</sub>
 </div>
