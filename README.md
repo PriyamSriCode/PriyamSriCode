@@ -68,26 +68,79 @@ funFact: "Daily driving Linux & living in the terminal 🐧☕"
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45"> Featured Projects
 
-</div>
-
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50">
 
+</div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛡️ [Project SHIELD](https://github.com/itspriyamsri/project-shield)
-AI-powered IP protection platform | TypeScript • FastAPI • MongoDB
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
+
+**AI-powered IP protection & takedown platform**
+
+🥉 **HackCBS 8.0 Winner** (3rd Place)
+
+Automated copyright violation detection with AI-generated DMCA notices
+
+**Tech:** TypeScript • FastAPI • MongoDB • Gemini API
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎓 [AetherLearn](https://github.com/itspriyamsri/aetherlearn)
-Educational resource aggregator with AI | JavaScript • FastAPI • Docker
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+**AI-powered educational resource aggregator**
+
+🌟 **Google Solution Challenge Top 105**
+
+Smart course generation with free resource curation
+
+**Tech:** JavaScript • FastAPI • Docker • Firebase
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔒 [CPPCloak](https://github.com/itspriyamsri/cppcloak)
-LLVM-based code obfuscator | C++ • LLVM • React • TypeScript
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+**Compiler-level code obfuscation tool**
+
+🔐 **Smart India Hackathon Project**
+
+String encryption & control flow obfuscation for C/C++
+
+**Tech:** C++ • LLVM • React • TypeScript • FastAPI
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎯 [Saksham AI](https://github.com/itspriyamsri/saksham-ai)
-Intelligent internship matcher with skill gap analysis | Python • AI/ML
 
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**Intelligent internship recommendation system**
+
+🧠 **AI-powered skill gap analyzer**
+
+Resume scanning + NPTEL/SWAYAM course suggestions
+
+**Tech:** Python • AI/ML APIs • NLP
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <div align="center">
 
@@ -114,9 +167,8 @@ Intelligent internship matcher with skill gap analysis | Python • AI/ML
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=itspriyamsri&theme=tokyonight&row=1&column=6)](https://github.com/itspriyamsri)
 
-<img src="https://github-readme-stats.vercel.app/api?username=itspriyamsri&show_icons=true&theme=tokyonight" alt="github stats" width="48%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspriyamsri&layout=compact&theme=tokyonight" width="48%" align="center">
+
 
 </div>
 
@@ -126,7 +178,10 @@ Intelligent internship matcher with skill gap analysis | Python • AI/ML
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="45"> Beyond Code
 
-Gaming 🎮 | Sci-Fi 🚀 | Photography 📸 | Chess ♟️ | Anime 🎬
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp;
+
+| Gaming 🎮 | Sci-Fi 🚀 | Photography 📸 | Chess ♟️ | Anime 🎬 |
+|:----------:|:-----------:|:--------:|:-----------:|:--------:|
 
 </div>
 
@@ -136,6 +191,8 @@ Gaming 🎮 | Sci-Fi 🚀 | Photography 📸 | Chess ♟️ | Anime 🎬
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="45"> Let's Connect!
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="75">&nbsp; 
+
   <a href="https://linkedin.com/in/itspriyamsri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -143,10 +200,8 @@ Gaming 🎮 | Sci-Fi 🚀 | Photography 📸 | Chess ♟️ | Anime 🎬
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+💻" />
@@ -155,3 +210,4 @@ Gaming 🎮 | Sci-Fi 🚀 | Photography 📸 | Chess ♟️ | Anime 🎬
 <div align="center">
   <sub>⭐ Star repos you find useful | Let's collaborate and build together!</sub>
 </div>
+
